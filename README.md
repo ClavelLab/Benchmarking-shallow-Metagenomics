@@ -44,7 +44,9 @@ For installation of the required tools please visite their original websites lin
 
 ## Data availability
 Metagenomic data has be deposited at the European Nucleotide Archive/NCBI and is accessible under Project no. PRJEB83573. 
-MAGs generated during analysis can be downloaded from Zenodo: https://doi.org/10.5281/zenodo.19892658
+MAGs generated during analysis can be downloaded from Zenodo: https://doi.org/10.5281/zenodo.19892658.
+Reference genomes can be downloaded from puplic repositories with the accession numbers in [Supplementary Data 2](https://www.nature.com/articles/s41564-026-02334-2#Sec23) or from Zenodo:
+https://doi.org/10.5281/zenodo.21334985.
 
 ## Publication
 Treichel et al. Benchmarking of shotgun sequencing depth reveals the potential and limitations of shallow metagenomics and strain-level analysis. Nat Microbiol (2026). [doi.org/10.1038/s41564-026-02334-2](https://doi.org/10.1038/s41564-026-02334-2)
